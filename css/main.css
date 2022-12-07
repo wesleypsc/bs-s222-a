@@ -1,0 +1,12 @@
+.navbar-custom{
+    background-color: teal
+}
+
+.links-right{
+    flex-grow: 0;
+}
+
+#cards{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
